@@ -1,0 +1,21 @@
+        Patient History:
+        - 58-year-old nonsmoker white female
+        - Mild exertional dyspnea and occasional cough
+        - Asymptomatic otherwise
+        - No significant medical history or allergies
+        - No family history of cancer
+        - Neurologic examination: unremarkable
+        - CT scan of the head: solitary mass in the right frontal lobe
+
+        Clinical Findings + Diagnosis:
+        - Chest x-ray: left lung mass
+        - CT scan of the head: solitary mass in the right frontal lobe
+
+        Treatment Options:
+        - Further imaging studies (PET scan, MRI) to determine the extent and nature of the lung and brain lesions
+        - Biopsy of the lung mass for tissue diagnosis
+        - Neurosurgical consultation for management of the brain mass
+        - Pulmonary consultation for management of the lung mass
+        - Consideration of systemic therapy (chemotherapy, targeted therapy, immunotherapy) based on tissue diagnosis and extent of disease
+        - Radiation therapy may be considered for either or both lesions, depending on the nature of the lesions and the patient's overall health
+        - Regular follow-up with medical oncology, neurosurgery, and pulmonary services to monitor disease progression and response to treatment
