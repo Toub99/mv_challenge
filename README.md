@@ -1,4 +1,4 @@
-# Schritte
+# Automatic medical report generation
 
 ## Datenintegration
 
@@ -58,4 +58,7 @@
 
 ## Verbesserungen
 - Es wurde bei manchen reports beobachtet, dass das Modell halluziniert und Punkte in den Bericht hinzufügt, die überhaupt nicht genannt werden. 
-   --> Um dies zu verhindern wurde der Prompt etwas verändert
+   --> Um dies zu verhindern wurde der Prompt etwas verändert:
+   ```console
+   Please create a short medical report only including sections about Patient History, Clinical Findings + Diagnosis and Treatment Options based on this Patient description: 
+   ```
