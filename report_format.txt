@@ -1,0 +1,11 @@
+Patient History:
+- Age
+- Family History
+- Medical History
+- Allergies
+
+Clinical Findings
+
+Diagnosis
+
+Treatment options
