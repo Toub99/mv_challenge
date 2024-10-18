@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 datasets = "*"
+transformers = "*"
+huggingface-hub = "*"
 
 [dev-packages]
 
