@@ -1,0 +1,25 @@
+**Patient History:**
+- Age: 2 years
+- Family History: Non-contributory
+- Medical History: No significant medical history
+- Allergies: None known
+
+**Clinical Findings:**
+- High fever for 5 days
+- Irritability
+- Conjunctivitis
+- Strawberry tongue
+- Inflammation of hands and feet
+- Desquamation of skin on fingers and toes
+- Cervical lymphadenopathy (smallest node 1.5 cm)
+- Abdominal tenderness and enlarged liver
+- Elevated ALT, elevated WBC, low albumin, elevated CRP, elevated ESR, mild anemia, leukocytes in urine
+
+**Diagnosis:**
+Kawasaki Disease with possible coronary artery involvement
+
+**Treatment Options:**
+1. **Intravenous Immunoglobulin (IVIG):** High-dose IVIG (2 g/kg) should be administered as soon as possible to reduce the risk of coronary artery aneurysms. This is the standard of care for Kawasaki Disease.
+2. **Aspirin:** Low-dose aspirin (3-5 mg/kg/day) should be started immediately and continued until the patient's fever resolves. High-dose aspirin (80-100 mg/kg/day) may be used during the acute phase of the disease.
+3. **Corticosteroids:** In cases where IVIG fails to reduce fever within 36 hours, corticosteroids (e.g., methylprednisolone) may be considered. However, their routine use is not recommended due to potential side effects.
+4. **Supportive care:** This includes adequate hydration, pain management, and monitoring of the patient's condition. Close follow-up with a pediatric cardiologist is essential to monitor for coronary artery abnormalities.

@@ -3,6 +3,7 @@ Patient History:
 - Family History
 - Medical History
 - Allergies
+- Immunizations
 
 Clinical Findings
 

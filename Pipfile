@@ -4,11 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-datasets = "*"
-transformers = "*"
+scispacy = "*"
+requests = "*"
 huggingface-hub = "*"
+en-core-sci-sm = {file = "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz"}
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.9"
+python_full_version = "3.9.20"

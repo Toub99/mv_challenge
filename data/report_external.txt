@@ -1,0 +1,25 @@
+---
+
+**Medical Report:**
+
+**Patient Information:**
+- Age: 58 years
+- Gender: Female
+- Race: White
+- Smoking Status: Nonsmoker
+
+**Chief Complaint:**
+- Mild exertional dyspnea (shortness of breath with physical exertion)
+- Occasional cough
+
+**Physical Examination:**
+- General: Asymptomatic, except for the above-mentioned complaints
+- Neurologic: Unremarkable; no signs of impairment in sensory, motor responses, or reflexes
+
+**Investigations:**
+- Chest X-ray: Incidentally detected a left lung mass
+- CT scan of the head: Revealed a solitary mass in the right frontal lobe
+
+**Impression:**
+- The patient presents with a left lung mass, likely an asymptomatic pulmonary lesion, given her lack of respiratory symptoms aside from mild exertional dyspnea and occasional cough.
+- The CT scan of the head demonstrates a solitary mass in the right frontal lobe, which may be a brain tumor or other intracranial lesion, requiring further evaluation and management.

@@ -62,3 +62,17 @@
    ```console
    Please create a short medical report only including sections about Patient History, Clinical Findings + Diagnosis and Treatment Options based on this Patient description: 
    ```
+- Es kann nun ein Format angegeben werden, das für den medical report angewendet werden soll
+
+## Information Retrieval Pipeline
+Ich benutze scispacy (Variante von spacy) um wichtige medizinische Entities aus der Patientenbeschreibung herauszufiltern
+
+1. Patientenbeschreibung --> NER using scispacy = medical entities (e.g. non-smoker, dyspnea,...)
+2. Medical Entities --> Entity Linker = Definitions and additional information for entities using pubmed headlines
+3. Definitions + Patient descriptions --> LLM report generation = enhanced report
+
+
+
+## Mögliche Verbesserungen
+1. (use pubmed headlines to query pubmed central)
+2. (summarize articles of pubmed central to gain core information)
