@@ -1,5 +1,10 @@
 # Automatic medical report generation
 
+## Setup
+
+Run ```pipenv install``` to install all dependencies
+Note that scispacy requires python 3.9 or older
+
 ## Datenintegration
 
 1. Recherche welche Datensätze für Aufgabenstellung geeignet sind
