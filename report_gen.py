@@ -11,12 +11,10 @@ prompt = """Please create a short medical report only including sections about P
         History, Clinical Findings + Diagnosis and Treatment Options based on this Patient description: {}"""
 prompt_with_format = """Please create a short medical report with the following structure {},
         based on the following patient description: {}"""
-prompt_with_external = """Build a medical report based on this patient description: {} and with this structure: {}.
-        Here are some medical definitions that should also be inside the report: {}"""
-max_tokens = 700
 prompt_with_external = """Use these definitions of medical terms: {} 
         to build a short medical report only including patient history, clinical findings,
         diagnosis and treatment options based on this patient description: {}"""
+max_tokens = 700
 
 
 # Validate file paths
